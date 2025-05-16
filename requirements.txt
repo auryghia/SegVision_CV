@@ -1,0 +1,12 @@
+peft
+transformers
+accelerate
+datasets
+monai
+torch
+torchvision
+pycocotools
+numpy
+matplotlib
+Pillow
+tqdm

@@ -1,6 +1,10 @@
 # Data files
 data/
-
+checkpoints/
+Saved_models/
+precomputed_embeddings.pt
+final_model.pth
+training_SAM_results.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
